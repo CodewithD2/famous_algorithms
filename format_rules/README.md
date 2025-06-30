@@ -7,6 +7,7 @@ This document outlines the formatting rules for this project.
 *   Use a consistent coding style.
 *   Add comments to your code where necessary.
 *   Use clear and concise variable names.
+*   **Avoid Duplication:** Do not repeat code or information. If you find yourself writing the same thing in multiple places, consider creating a reusable function, variable, or document.
 
 ## Markdown Rules
 

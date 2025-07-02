@@ -6,6 +6,7 @@ This repository is dedicated to providing Python implementations of famous algor
 
 *   [Linear Search](./linear_search)
 *   [Binary Search](./binary_search)
+*   [Jump search](./jump_search)
 
 ## Formatting Rules
 
